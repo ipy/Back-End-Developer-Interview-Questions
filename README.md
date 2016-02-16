@@ -140,7 +140,7 @@ This project is admittedly inspired by [Front-end Job Interview Questions](https
 ####[[↑]](#toc) <a name='databases'>Questions about Databases:</a>
 
 * How would you manage the migration of a project from MySQL to PostgreSQL?
-* Why in SQL ```SELECT * FROM table WHERE field = null``` does not match records with null ``field``?
+* Why in SQL ```SELECT * FROM table WHERE field = null``` does not match records with null ``field``? [A](https://stackoverflow.com/questions/9581745/sql-is-null-and-null)
 * What's ACID (Atomicity, Consistency, Isolation, Durability)?
 * How would you manage database schema migrations?
 * How is Lazy Loading achieved? When is it useful? What are its pitfalls?
